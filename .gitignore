@@ -1,10 +1,14 @@
-# MAXNATE ACUMEN - Internal design documents
-# Backed up to a separate private repo. See sync-design.ps1 for details.
+# MAXNATE ACUMEN - Internal design + development artifacts
+# Backed up to acumen-backup private repo. See sync-design.ps1 for details.
 /docs/
 /skills-commands.md
 /sync-design.ps1
+/.claude/
+/.opencode/
 
 # Node
 node_modules/
 dist/
 .env
+
+# Test entry for pipeline verification
